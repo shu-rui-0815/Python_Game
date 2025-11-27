@@ -6,7 +6,7 @@
 * `MediaPipe`：用於即時手部關鍵點追蹤
 * `OpenCV`：處理影像輸入、色彩
 * `Pygame`：處理遊戲迴圈、碰撞偵測 (用於接蘋果遊戲)
-* `cv2.imshow：利用 OpenCV 視窗設計 UI (用於猜拳遊戲)
+* `cv2.imshow`：利用 OpenCV 視窗設計 UI (用於猜拳遊戲)
 
 ### 作品展示
 **1. 接蘋果遊戲** (Mediapipe_Pick up the apple_Game.py)
